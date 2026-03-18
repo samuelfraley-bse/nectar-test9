@@ -1,0 +1,22 @@
+# Core data science
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+plotly
+
+# Econometrics
+statsmodels
+linearmodels
+
+# Machine learning
+scikit-learn
+
+# Notebooks
+jupyter
+ipykernel
+
+# Utilities
+python-dotenv
+tqdm
